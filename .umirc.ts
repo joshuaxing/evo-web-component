@@ -31,5 +31,10 @@ export default defineConfig({
   //     skipNodeModules: true,
   //   },
   // },
+  base: '/evo-web-component/docs-dist/',
+  publicPath: '/evo-web-component/docs-dist/',
+  history: {
+    type: 'hash', // 设置路由模式为 hash 模式，防止部署至 GitHub Pages 后刷新网页后出现 404 的情况发生.
+  },
   // more config: https://d.umijs.org/config
 });

@@ -1,6 +1,6 @@
 {
   "name": "evo-web-component",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
@@ -43,5 +43,9 @@
     "lint-staged": "^10.0.7",
     "prettier": "^2.2.1",
     "yorkie": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshuaxing/evo-web-component"
   }
 }
