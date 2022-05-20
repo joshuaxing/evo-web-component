@@ -1,33 +1,14 @@
+
 # evo-web-component
+基于 Ant Design 封装的业务组件库。
 
-## Getting Started
 
-Install dependencies,
-
-```bash
-$ npm i
+### 安装
+```
+$ npm install --save evo-web-component
+# or
+$ yarn add evo-web-component
 ```
 
-Start the dev server,
-
-```bash
-$ npm start
-```
-
-Build documentation,
-
-```bash
-$ npm run docs:build
-```
-
-Run test,
-
-```bash
-$ npm test
-```
-
-Build library via `father-build`,
-
-```bash
-$ npm run build
-```
+### 组件使用文档
+https://joshuaxing.github.io/evo-web-component/docs-dist/#/
